@@ -1,0 +1,36 @@
+EVIL ZHYON .CHR FILE
+======================
+
+name: Evil Zhyon
+type: corrupted_hero
+form: dark_energy_ball
+
+stats:
+  speed: 10
+  power: 9
+  jump: 8
+  corruption_level: 100%
+
+abilities:
+  - shadow_dash
+  - ring_drain
+  - glitch_form
+  - void_jump
+
+behavior:
+  enemy: true
+  boss_phase: true
+  AI: aggressive
+
+sprite (ascii placeholder):
+  ..######..
+ .#XXXXXX#.
+.#X####XX#.
+.#X#EV#XX#.
+.#X####XX#.
+ .#XXXXXX#.
+  ..######..
+
+lore:
+Evil Zhyon is a corrupted version of Zhyon created by Robot Zhyon.
+He absorbs rings and breaks the game world, turning stages into glitch zones.
