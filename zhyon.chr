@@ -2,15 +2,13 @@ EVIL ZHYON .CHR FILE
 ======================
 
 name: Evil Zhyon
-type: corrupted_hero
+type: corrupted_hero 
 form: dark_energy_ball
 
 stats:
-  speed: 10
-  power: 9
-  jump: 8
-  corruption_level: 100%
-
+  speed: 100000000000000000000000000000000000000000000000000
+  power: 900
+  jump: 80000  corruption_level: 1000000000000000%
 abilities:
   - shadow_dash
   - ring_drain
